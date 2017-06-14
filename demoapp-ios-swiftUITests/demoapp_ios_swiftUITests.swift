@@ -46,6 +46,6 @@ class demoapp_ios_swiftUITests: XCTestCase {
         let app = XCUIApplication()
         app.buttons["R"].tap()
         let labelData = app.staticTexts["controlLabel"]
-        XCTAssert(labelData.label == "potato.")
+        XCTAssert(labelData.label == "In the right.")
     }
 }

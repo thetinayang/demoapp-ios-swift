@@ -14,9 +14,9 @@
 		<array/>
 		<key>DependentProductPaths</key>
 		<array>
-			<string>__TESTROOT__/Debug-iphoneos/demoapp-ios-swift.app/PlugIns/demoapp-ios-swiftTests.xctest</string>
 			<string>__TESTROOT__/Debug-iphoneos/demoapp-ios-swift.app</string>
 			<string>__TESTROOT__/Debug-iphoneos/demoapp-ios-swiftUITests-Runner.app/PlugIns/demoapp-ios-swiftUITests.xctest</string>
+			<string>__TESTROOT__/Debug-iphoneos/demoapp-ios-swift.app/PlugIns/demoapp-ios-swiftTests.xctest</string>
 		</array>
 		<key>EnvironmentVariables</key>
 		<dict>
@@ -71,9 +71,9 @@
 		<array/>
 		<key>DependentProductPaths</key>
 		<array>
-			<string>__TESTROOT__/Debug-iphoneos/demoapp-ios-swift.app/PlugIns/demoapp-ios-swiftTests.xctest</string>
 			<string>__TESTROOT__/Debug-iphoneos/demoapp-ios-swift.app</string>
 			<string>__TESTROOT__/Debug-iphoneos/demoapp-ios-swiftUITests-Runner.app/PlugIns/demoapp-ios-swiftUITests.xctest</string>
+			<string>__TESTROOT__/Debug-iphoneos/demoapp-ios-swift.app/PlugIns/demoapp-ios-swiftTests.xctest</string>
 		</array>
 		<key>EnvironmentVariables</key>
 		<dict>

@@ -150,7 +150,7 @@
 		</data>
 		<key>Frameworks/XCTest.framework/XCTest</key>
 		<data>
-		UAV8c5fnq6FHfhW9yRyCoGHA1tQ=
+		9n1L2Sdm24bHfrYgZlHgBK0tOl4=
 		</data>
 		<key>Frameworks/XCTest.framework/XPCServices/XCUIRecorderService.xpc/Info.plist</key>
 		<data>
@@ -215,13 +215,13 @@
 		</data>
 		<key>PlugIns/demoapp-ios-swiftUITests.xctest.dSYM/Contents/Resources/DWARF/demoapp-ios-swiftUITests</key>
 		<data>
-		08n2rgpVmW5KIZuz63IU0R+Oxsw=
+		qubOZcVxY+ziqpmdBMWy5tFP+d4=
 		</data>
 		<key>PlugIns/demoapp-ios-swiftUITests.xctest/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jQNXK7ocXnRS7IZu7q4kOWxUDEQ=
+			uEoKcFLXKKyxRuotP7am7CyzI7k=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -239,7 +239,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			656529iJZvjvpY0hZaeaWziIG4U=
+			V/7QhTIzVjk2G7/tpDB7d0INJZI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -250,7 +250,7 @@
 		</data>
 		<key>PlugIns/demoapp-ios-swiftUITests.xctest/Frameworks/VSMobileCenterExtensions.framework/VSMobileCenterExtensions</key>
 		<data>
-		Htnz6OZqLLA6owUzFd6gMo80/2E=
+		/wLTSTDmhEZFIr1FBP1ZIK9E8nU=
 		</data>
 		<key>PlugIns/demoapp-ios-swiftUITests.xctest/Frameworks/VSMobileCenterExtensions.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -258,51 +258,51 @@
 		</data>
 		<key>PlugIns/demoapp-ios-swiftUITests.xctest/Frameworks/libswiftCore.dylib</key>
 		<data>
-		oWQymwAFFqqV9AOVpIXTjFjEA+8=
+		Rb306+0WSGpNyIRwycksbCNhRrE=
 		</data>
 		<key>PlugIns/demoapp-ios-swiftUITests.xctest/Frameworks/libswiftCoreAudio.dylib</key>
 		<data>
-		qiytZTluvPohq3Xdv/sIcXOwqP4=
+		KbpyDk9iDovxI3NnbvcIm1KH0pA=
 		</data>
 		<key>PlugIns/demoapp-ios-swiftUITests.xctest/Frameworks/libswiftCoreGraphics.dylib</key>
 		<data>
-		4CUkVTTZ2jG3Lm7NSfdFIYJYrd0=
+		L9fZ6J4Oh0URFd/S2tJo1AyPW9w=
 		</data>
 		<key>PlugIns/demoapp-ios-swiftUITests.xctest/Frameworks/libswiftCoreImage.dylib</key>
 		<data>
-		Nw6+9a5B4SuGvisgcW+Ww9IixYo=
+		CBmHm0UT5SAfFC99hmbf4+6c36w=
 		</data>
 		<key>PlugIns/demoapp-ios-swiftUITests.xctest/Frameworks/libswiftCoreMedia.dylib</key>
 		<data>
-		WeZDWiURwy16HlyqMfc7TkiLjhA=
+		DB+NHS8Bggqhppmdzp2O1C4qk8Y=
 		</data>
 		<key>PlugIns/demoapp-ios-swiftUITests.xctest/Frameworks/libswiftDarwin.dylib</key>
 		<data>
-		D1yiAlw6ZUbuxAG05COX9qa9Aik=
+		8colbzkonhYZrg+7kiJ4W+p/fUg=
 		</data>
 		<key>PlugIns/demoapp-ios-swiftUITests.xctest/Frameworks/libswiftDispatch.dylib</key>
 		<data>
-		j5TnD2vqck7D8CiK1QpZUqfQako=
+		d1s0V23mPYk1QMKJV9tLS7JcGds=
 		</data>
 		<key>PlugIns/demoapp-ios-swiftUITests.xctest/Frameworks/libswiftFoundation.dylib</key>
 		<data>
-		EA1CV0EkfQAOwNJclPQJnxGZtx0=
+		YKqzr90LJHsbqAyoo5Wwcc8DSAw=
 		</data>
 		<key>PlugIns/demoapp-ios-swiftUITests.xctest/Frameworks/libswiftObjectiveC.dylib</key>
 		<data>
-		Q08g7x4Xl6dvVU+bmHR7tB+y/ks=
+		ov93zrs369j6pBEMjgY9tp45dww=
 		</data>
 		<key>PlugIns/demoapp-ios-swiftUITests.xctest/Frameworks/libswiftQuartzCore.dylib</key>
 		<data>
-		eYrC7aU1LqFvGR7pyt6k9f69AqU=
+		N9SWsY9+0GThCWf9nmMuu48mn/o=
 		</data>
 		<key>PlugIns/demoapp-ios-swiftUITests.xctest/Frameworks/libswiftUIKit.dylib</key>
 		<data>
-		/JAO5RrINd5z12+wBjX6g1rv0GE=
+		joP40i+BFvOXV5J6mxNx864IeLk=
 		</data>
 		<key>PlugIns/demoapp-ios-swiftUITests.xctest/Frameworks/libswiftXCTest.dylib</key>
 		<data>
-		fjgtfRVwoJosmy/erCMA/gG8CU0=
+		zIIgSPomTjugb7qYmslrgpl/1e4=
 		</data>
 		<key>PlugIns/demoapp-ios-swiftUITests.xctest/Info.plist</key>
 		<data>
@@ -310,11 +310,11 @@
 		</data>
 		<key>PlugIns/demoapp-ios-swiftUITests.xctest/_CodeSignature/CodeResources</key>
 		<data>
-		V3dfK1/VFUcW6CElsmyNCQTFnZ4=
+		TyF2p9buVnAujpWuMup6ofwrgek=
 		</data>
 		<key>PlugIns/demoapp-ios-swiftUITests.xctest/demoapp-ios-swiftUITests</key>
 		<data>
-		LOVdcfxqJbhxmZLqDDA5q6SbcLc=
+		OcARMhl6vxlrAU72jrhzKODIAVU=
 		</data>
 		<key>PlugIns/demoapp-ios-swiftUITests.xctest/libswiftRemoteMirror.dylib</key>
 		<data>
@@ -727,11 +727,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UAV8c5fnq6FHfhW9yRyCoGHA1tQ=
+			9n1L2Sdm24bHfrYgZlHgBK0tOl4=
 			</data>
 			<key>hash2</key>
 			<data>
-			QUE8R1X4n+1ElBegs1NIEpUWkGZ7sdoKwqIm71NhOOk=
+			LkFifRYCQfVhmDgi81LoW9SZkYlEtOqJYADD4ryLl1E=
 			</data>
 		</dict>
 		<key>Frameworks/XCTest.framework/XPCServices/XCUIRecorderService.xpc/Info.plist</key>
@@ -872,22 +872,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			08n2rgpVmW5KIZuz63IU0R+Oxsw=
+			qubOZcVxY+ziqpmdBMWy5tFP+d4=
 			</data>
 			<key>hash2</key>
 			<data>
-			2c1WbEvKa6K7YNQAt4tzCVj2zXQosePrEtJqH7Rjku0=
+			SRS9c1fSzhOJ81dBoGUIKlGEkLkbonCgabECkkqWLKY=
 			</data>
 		</dict>
 		<key>PlugIns/demoapp-ios-swiftUITests.xctest/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jQNXK7ocXnRS7IZu7q4kOWxUDEQ=
+			uEoKcFLXKKyxRuotP7am7CyzI7k=
 			</data>
 			<key>hash2</key>
 			<data>
-			XxrPH/0q6KgRMbKCEFD6P72DCuGoiklm5Jhm2maoG04=
+			OfsNW+Nx+ZqewgEx0pf+grbNII41VTejunm37hu/1v0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -909,11 +909,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			656529iJZvjvpY0hZaeaWziIG4U=
+			V/7QhTIzVjk2G7/tpDB7d0INJZI=
 			</data>
 			<key>hash2</key>
 			<data>
-			vtYiyLuQccBArNhS3eqKP+YiokueBUzLk+zKQvyt914=
+			+998aiujz9zleR2DJZhH1BOX3oLcxBY+2EgwC6IZKhw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -933,11 +933,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Htnz6OZqLLA6owUzFd6gMo80/2E=
+			/wLTSTDmhEZFIr1FBP1ZIK9E8nU=
 			</data>
 			<key>hash2</key>
 			<data>
-			gAKPOK0TllWnoFDHfYfoWy2pVpwfA788li5QZwiL08w=
+			ziesPgjFgLe7YPguYK3xn7M3Ab2IHX2Gu+3E38tjZpE=
 			</data>
 		</dict>
 		<key>PlugIns/demoapp-ios-swiftUITests.xctest/Frameworks/VSMobileCenterExtensions.framework/_CodeSignature/CodeResources</key>
@@ -955,132 +955,132 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oWQymwAFFqqV9AOVpIXTjFjEA+8=
+			Rb306+0WSGpNyIRwycksbCNhRrE=
 			</data>
 			<key>hash2</key>
 			<data>
-			f5wNtw9QjqxOqdjBBg/mFdU2GvN6ap0C3lSHp4ozdZA=
+			FN0NZnyPePiEUaujgAbUcskjRgNCFZh8hXAvehsdFnA=
 			</data>
 		</dict>
 		<key>PlugIns/demoapp-ios-swiftUITests.xctest/Frameworks/libswiftCoreAudio.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qiytZTluvPohq3Xdv/sIcXOwqP4=
+			KbpyDk9iDovxI3NnbvcIm1KH0pA=
 			</data>
 			<key>hash2</key>
 			<data>
-			nj6cmkvhOuQrV8g87h2wTAbQqo+OYGS0vJC169SuySs=
+			CaW43W2QMRWKY622ZknWj+ICM9dGm4ScRrR1uv47zxk=
 			</data>
 		</dict>
 		<key>PlugIns/demoapp-ios-swiftUITests.xctest/Frameworks/libswiftCoreGraphics.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4CUkVTTZ2jG3Lm7NSfdFIYJYrd0=
+			L9fZ6J4Oh0URFd/S2tJo1AyPW9w=
 			</data>
 			<key>hash2</key>
 			<data>
-			ti8KAV2U+81HTkuFjZnAlDlOVs8N7oFV4drzi9hmQDM=
+			PYVdCzYQHJgY8f5E2yoM4NOqa41OFWycmgAuHZ8UqGc=
 			</data>
 		</dict>
 		<key>PlugIns/demoapp-ios-swiftUITests.xctest/Frameworks/libswiftCoreImage.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Nw6+9a5B4SuGvisgcW+Ww9IixYo=
+			CBmHm0UT5SAfFC99hmbf4+6c36w=
 			</data>
 			<key>hash2</key>
 			<data>
-			P/WUYXFS+3UigIwQc6NrZZkpCkUTfm4yQFvEy9/uh/s=
+			1uK7nB16J3OfA/Au6ppwC2cFqZICC0ardxCojCrLMug=
 			</data>
 		</dict>
 		<key>PlugIns/demoapp-ios-swiftUITests.xctest/Frameworks/libswiftCoreMedia.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WeZDWiURwy16HlyqMfc7TkiLjhA=
+			DB+NHS8Bggqhppmdzp2O1C4qk8Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			oF2pj+z7lJGOFiGYlRAhbmrHOpSdYja9wa3eIYkToRM=
+			2gW3Maoei/BxSnl84rXM6wY9tRtKuaksGiZA279Ipg0=
 			</data>
 		</dict>
 		<key>PlugIns/demoapp-ios-swiftUITests.xctest/Frameworks/libswiftDarwin.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			D1yiAlw6ZUbuxAG05COX9qa9Aik=
+			8colbzkonhYZrg+7kiJ4W+p/fUg=
 			</data>
 			<key>hash2</key>
 			<data>
-			2N6kNoL9Py9LOMsiXRyM4agPatZzEK0WxGnMm9RBsFU=
+			TmkW0wsiipn7D0WZsm89xj9PCnocPtuWSSrDFkA09wI=
 			</data>
 		</dict>
 		<key>PlugIns/demoapp-ios-swiftUITests.xctest/Frameworks/libswiftDispatch.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			j5TnD2vqck7D8CiK1QpZUqfQako=
+			d1s0V23mPYk1QMKJV9tLS7JcGds=
 			</data>
 			<key>hash2</key>
 			<data>
-			aOwUZSYDVcJ4S1ta5UirUwPRCeeSIQpROJkEkO5yibI=
+			Xpr4qu9qXLVRZvNzBSWL88vxLbsbwrU8PAbe/cQKB/U=
 			</data>
 		</dict>
 		<key>PlugIns/demoapp-ios-swiftUITests.xctest/Frameworks/libswiftFoundation.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EA1CV0EkfQAOwNJclPQJnxGZtx0=
+			YKqzr90LJHsbqAyoo5Wwcc8DSAw=
 			</data>
 			<key>hash2</key>
 			<data>
-			swArkyfKI7T6H+ZWhJl5B3jbDYHRI6JtL5ETNvSTjkk=
+			LLC3nGlo/7PnWSgj2M4vvzO9jQ8Ffi+6hcRDXP+XTSE=
 			</data>
 		</dict>
 		<key>PlugIns/demoapp-ios-swiftUITests.xctest/Frameworks/libswiftObjectiveC.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Q08g7x4Xl6dvVU+bmHR7tB+y/ks=
+			ov93zrs369j6pBEMjgY9tp45dww=
 			</data>
 			<key>hash2</key>
 			<data>
-			gX6Wz54zUKKIbbtNjlkyQ56B42RwZVRXC7+bMiRDneI=
+			W7Fjb71bSTprPkc2X7Pr7Q9x4Kl2P3TKd0Rfe0scA6k=
 			</data>
 		</dict>
 		<key>PlugIns/demoapp-ios-swiftUITests.xctest/Frameworks/libswiftQuartzCore.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			eYrC7aU1LqFvGR7pyt6k9f69AqU=
+			N9SWsY9+0GThCWf9nmMuu48mn/o=
 			</data>
 			<key>hash2</key>
 			<data>
-			lZwwGjf42xoaCVYhDLWoMNY5AJwk1dM6BfSuVOtGvU8=
+			ih6EDc7zy8hbX3XsLv8AdYzsU1PiS2rHm0sgpwWw7j8=
 			</data>
 		</dict>
 		<key>PlugIns/demoapp-ios-swiftUITests.xctest/Frameworks/libswiftUIKit.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/JAO5RrINd5z12+wBjX6g1rv0GE=
+			joP40i+BFvOXV5J6mxNx864IeLk=
 			</data>
 			<key>hash2</key>
 			<data>
-			A7u1qCmgnvgPxlaWpUeztKKAwSlsxFPhgSYUxyHsFWY=
+			0YBaAJIMIU8o7dJDVrUAl+RvMlqstWYQ5b0hkFMSSIs=
 			</data>
 		</dict>
 		<key>PlugIns/demoapp-ios-swiftUITests.xctest/Frameworks/libswiftXCTest.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fjgtfRVwoJosmy/erCMA/gG8CU0=
+			zIIgSPomTjugb7qYmslrgpl/1e4=
 			</data>
 			<key>hash2</key>
 			<data>
-			VT/YQPvBnYJoGabyxKUDCihpBdqoLAER2fxWlar1V5A=
+			m8wYG0Lh09mywncx5wYeUrb7xs2NKaLVdZywUIXPo1k=
 			</data>
 		</dict>
 		<key>PlugIns/demoapp-ios-swiftUITests.xctest/Info.plist</key>
@@ -1098,22 +1098,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			V3dfK1/VFUcW6CElsmyNCQTFnZ4=
+			TyF2p9buVnAujpWuMup6ofwrgek=
 			</data>
 			<key>hash2</key>
 			<data>
-			geacq/BPo29YjdO4uYQ45SDDJUyMa+EXa5M24QUrxRY=
+			Sln+L5GLXdbePSXCG6ni+kvasYIOhC0Q66Wp49gED6E=
 			</data>
 		</dict>
 		<key>PlugIns/demoapp-ios-swiftUITests.xctest/demoapp-ios-swiftUITests</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LOVdcfxqJbhxmZLqDDA5q6SbcLc=
+			OcARMhl6vxlrAU72jrhzKODIAVU=
 			</data>
 			<key>hash2</key>
 			<data>
-			pyWe10dL2+eQBV7GMeOaq23DTzYlGyC6nqZ+e4b0yEw=
+			f/5NQFdcBkINZ1xjSHTI3BG7QTE1N6r/8gG6xCtulWI=
 			</data>
 		</dict>
 		<key>PlugIns/demoapp-ios-swiftUITests.xctest/libswiftRemoteMirror.dylib</key>
